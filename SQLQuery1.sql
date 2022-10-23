@@ -381,5 +381,3 @@ SELECT * FROM filme
 SELECT * FROM filme_estrela
 SELECT * FROM locacao
 
-use master
-drop database locadora
